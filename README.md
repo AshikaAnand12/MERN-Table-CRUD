@@ -1,6 +1,6 @@
 # MERN-Table-CRUD
 
-### MERN-Table-CRUD is a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js) that focuses on performing CRUD (Create, Read, Update, Delete) operations on a table.
+This repo has a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js) that focuses on performing CRUD (Create, Read, Update, Delete) operations on a table.
 
 ## Features
 
